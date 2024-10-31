@@ -71,7 +71,6 @@ Fork the repository
 3. Push to the branch (git push origin feature-branch)
 4. Open a Pull Request
    
-**Resources**
 ## Resources
 - [Oracle Java Documentation](https://docs.oracle.com/javase/tutorial/)
 - [Java Programming Cheatsheet](https://www.cs.princeton.edu/courses/archive/spring19/cos126/precepts/02-Java_Basics.pdf)
